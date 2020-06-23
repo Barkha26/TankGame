@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{96BDF2C3-9B75-1FFF-B14B-E867448DB778}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BulletScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TankGenerator.cs" Line="54" Column="45" />
+      <File FileName="Assets/Scripts/Board.cs" />
+      <File FileName="Assets/Scripts/ClickToMove.cs" />
+      <File FileName="Assets/Scripts/Tank.cs" />
+      <File FileName="Assets/Scripts/InputManager.cs" />
+      <File FileName="Assets/Scripts/PlayerManager.cs" />
+      <File FileName="Assets/Scripts/ToogleShoot.cs" />
+      <File FileName="Assets/Scripts/BulletScript.cs" Line="86" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="046ea506-2a0c-492c-983d-5201074501be" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
